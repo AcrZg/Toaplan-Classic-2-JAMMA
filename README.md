@@ -8,7 +8,7 @@ The adpter is compatible with the games bellow:
   - Slap Fight(JPN)/Alcon(US)
   - Tiger Heli
 
-Disclaimer: Currently tested with Tiger Heli board
+Disclaimer: Currently tested with Tiger Heli and Alcon boards
 
 V1.1 uploaded under releases
 
